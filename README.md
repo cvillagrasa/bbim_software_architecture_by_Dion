@@ -13,8 +13,7 @@ the same questions.
 The primary purpose of the core is to break down large complex software functionality into simple, short, 
 english-reading functions.
 
-## But why is there Core, Tool and core.tool? Why not just write well-organized unified code and its corresponding tests? 
-Do we really need to type function blueprints three times in Python?
+## But why is there Core, Tool and core.tool? Why not just write well-organized unified code and its corresponding tests? Do we really need to type function blueprints three times in Python?
 
 Indeed, it feels like "extra work", but it's worth it in the long term.
 
